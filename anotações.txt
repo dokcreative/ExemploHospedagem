@@ -37,7 +37,7 @@ EX:
     </style>
 
 * checar adobe color wheel
-
+* https://color.adobe.com/pt/create/image * cores de acordo c a imagem!
 
 
 
